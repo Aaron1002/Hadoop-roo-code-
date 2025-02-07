@@ -1,0 +1,23 @@
+1. 安裝與配置 Hadoop
+
+    幫我寫一份詳細的 Hadoop 安裝與配置指南，包括如何在多節點叢集中部署 HDFS 和 YARN。
+
+2. Hadoop MapReduce 程式
+
+    幫我寫一個 Hadoop MapReduce 程式，能夠計算輸入文本中每個單詞的出現次數，並說明如何編譯和執行。
+
+3. 使用 Hadoop Streaming（Python 版 MapReduce）
+
+    幫我寫一個 Hadoop Streaming 程式，使用 Python 實作 MapReduce 來進行單詞計數。
+
+4. HDFS 操作
+
+    幫我寫一份 Hadoop HDFS 指令指南，包含如何上傳、下載、刪除、讀取 HDFS 上的文件。
+
+5. Hadoop 與 Spark 整合
+
+    幫我寫一份指南，說明如何在 Hadoop 叢集上部署 Apache Spark，並舉例如何使用 Spark 讀取 HDFS 資料。
+
+6. Hadoop 與 AI / 機器學習
+
+    幫我寫一個 Hadoop 應用案例，使用 Mahout 或 Spark MLlib 進行機器學習，並說明如何處理大規模數據。
